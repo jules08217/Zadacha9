@@ -1,0 +1,8 @@
+C:\Users\Немец\source\repos\Zadanie9\studentlib\bin\Debug\netcoreapp3.1\studentlib1.deps.json
+C:\Users\Немец\source\repos\Zadanie9\studentlib\bin\Debug\netcoreapp3.1\studentlib1.dll
+C:\Users\Немец\source\repos\Zadanie9\studentlib\bin\Debug\netcoreapp3.1\studentlib1.pdb
+C:\Users\Немец\source\repos\Zadanie9\studentlib\obj\Debug\netcoreapp3.1\studentlib1.csproj.CoreCompileInputs.cache
+C:\Users\Немец\source\repos\Zadanie9\studentlib\obj\Debug\netcoreapp3.1\studentlib1.AssemblyInfoInputs.cache
+C:\Users\Немец\source\repos\Zadanie9\studentlib\obj\Debug\netcoreapp3.1\studentlib1.AssemblyInfo.cs
+C:\Users\Немец\source\repos\Zadanie9\studentlib\obj\Debug\netcoreapp3.1\studentlib1.dll
+C:\Users\Немец\source\repos\Zadanie9\studentlib\obj\Debug\netcoreapp3.1\studentlib1.pdb

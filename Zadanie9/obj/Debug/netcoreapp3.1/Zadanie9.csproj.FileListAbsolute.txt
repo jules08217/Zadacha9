@@ -1,0 +1,16 @@
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\Zadanie9.exe
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\Zadanie9.deps.json
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\Zadanie9.runtimeconfig.json
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\Zadanie9.runtimeconfig.dev.json
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\Zadanie9.dll
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\Zadanie9.pdb
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.AssemblyInfoInputs.cache
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.AssemblyInfo.cs
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.csproj.CopyComplete
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.dll
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.pdb
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.genruntimeconfig.cache
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\obj\Debug\netcoreapp3.1\Zadanie9.csprojAssemblyReference.cache
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\studentlib.dll
+C:\Users\Немец\source\repos\Zadanie9\Zadanie9\bin\Debug\netcoreapp3.1\studentlib.pdb
